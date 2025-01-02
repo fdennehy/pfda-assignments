@@ -1,8 +1,8 @@
-# Programming for Data Analytics (PFDA) Assignments Repository
+# PFDA Assignments Repository
 
 **by Finbar Dennehy**
 
-This repository primarily contains four Jupyter Notebooks. Each notebook represents a weekly assignment submission for the 'Programming for Data Analytics' module, part of the HDip in Science in Data Analytics at ATU.
+This repository primarily contains four Jupyter Notebooks. Each notebook represents a weekly assignment submission for the 'Programming for Data Analytics' (PFDA) module, part of the HDip in Science in Data Analytics at ATU.
 
 ## Repository Contents (Assignments) ##
 
