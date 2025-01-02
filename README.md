@@ -1,6 +1,6 @@
 # Programming for Data Analytics (PFDA) Assignments Repository
 
-**by Finbar Dennehy
+**by Finbar Dennehy**
 
 This repository primarily contains four Jupyter Notebooks. Each notebook represents a weekly assignment submission for the 'Programming for Data Analytics' module, part of the HDip in Science in Data Analytics at ATU.
 
@@ -9,7 +9,7 @@ This repository primarily contains four Jupyter Notebooks. Each notebook represe
 - `assignment2-weather.ipynb` plots the temperature ("dryBulbTemperature_Celsius") over time, using data from `weatherreadings1.csv`.
 - `assignment03-pie.ipynb` creates a pie chart of peoples' email domains using [email domain data](https://drive.google.com/uc?id=1AWPf-pJodJKeHsARQK_RHiNsE8fjPCVK&export=download)
 - `assignment_5_risk.ipynb` simulates 1,000 individual battle rounds in Risk (3 attackers vs. 2 defenders) and plots the results. The program is extended to simulate a full series of rounds for armies of arbitary sizes, until one side is wiped out.
-- `assignment_6_Weather.ipynb` plots the temperature and windspeed using data from sing [Knock Airport weather data](https://cli.fusio.net/cli/climate_data/webdata/hly4935.csv).
+- `assignment_6_Weather.ipynb` plots the temperature and windspeed using data from [Knock Airport weather data](https://cli.fusio.net/cli/climate_data/webdata/hly4935.csv).
 - `requirements.txt` included in the repository for easy installation, it contains required Python libraries.
 - `.gitignore` file using the Python, Windows and Mac OS gitignore templates.
 
@@ -19,15 +19,15 @@ The purpose of this repo is to demonstrate ability in the following:
 
 1. Representing Data.
 
-2. Plotting and the different types of plots.
+2. Plotting and using the appropriate plot types.
 
-3. Using Pandas to read/write data and to manipulate data.
+3. Reading, writing and manipulating data in Pandas.
 
-4. Regular Expressions.
+4. Using Regular Expressions.
 
 5. Generating Random Data.
 
-6. Using Pandas to Work with dates and times.
+6. Working with dates and times in Pandas.
 
 ## Getting Started
 
