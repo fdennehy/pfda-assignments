@@ -6,12 +6,14 @@ This repository primarily contains four Jupyter Notebooks. Each notebook represe
 
 ## Repository Contents (Assignments) ##
 
+- `data` folder containing csv files that are either read or written by the notebooks.
+- `.gitignore` file using the Python, Windows and Mac OS gitignore templates.
+- `README.md` file
+- `requirements.txt` included in the repository for easy installation, it contains required Python libraries.
 - `assignment2-weather.ipynb` plots the temperature ("dryBulbTemperature_Celsius") over time, using data from `weatherreadings1.csv`.
 - `assignment03-pie.ipynb` creates a pie chart of peoples' email domains using [email domain data](https://drive.google.com/uc?id=1AWPf-pJodJKeHsARQK_RHiNsE8fjPCVK&export=download)
 - `assignment_5_risk.ipynb` simulates 1,000 individual battle rounds in Risk (3 attackers vs. 2 defenders) and plots the results. The program is extended to simulate a full series of rounds for armies of arbitary sizes, until one side is wiped out.
 - `assignment_6_Weather.ipynb` plots the temperature and windspeed using data from [Knock Airport weather data](https://cli.fusio.net/cli/climate_data/webdata/hly4935.csv).
-- `requirements.txt` included in the repository for easy installation, it contains required Python libraries.
-- `.gitignore` file using the Python, Windows and Mac OS gitignore templates.
 
 ## Purpose
 
@@ -69,6 +71,10 @@ You can run the Jupyter notebooks either locally on your machine or directly in 
 The following Python libraries are required to run the notebook:
 
 - pandas
+- numpy
+- datetime
+- matplotlib.pyplot
+- matplotlib.dates
 
 A `requirements.txt` file is included in the repository for easy installation.
 
